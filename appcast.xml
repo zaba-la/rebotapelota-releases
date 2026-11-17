@@ -3,17 +3,26 @@
     <channel>
         <title>RebotaPelota</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 17 Nov 2026 11:05:07 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<li>Pelota de tenis nueva: se ve la costura completa, el fieltro es más realista y el verde es más oscuro.</li>
+<li>Se quitó la pelota de vóley.</li>
+<li>Icono limpio, sin las marcas blancas junto a la pelota.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.0.1.dmg" length="6243497" type="application/octet-stream" sparkle:edSignature="NbObeAeNy1831/VMJLKrutqaVN8+GmQLheZTFnjXJojq6PAKysAW9cX4EFDTqiHKQ4gWNSUz74PMBtaWV1kdAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota11-9.delta" sparkle:deltaFrom="9" length="1556114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tqVIpRdUtyKdC9+yi934hUeS8B4pM0+UYALrOOIjb/IcdAiXul2LnpRbzQgjAIlBZRHqM4NegW4wvCv6qWDmBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 17 Nov 2026 08:34:27 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<li>Pelotas de basket, fútbol, tenis, vóley y la pelota Feliz, con física real sobre tu escritorio.</li>
-<li>Arrastra y lanza las pelotas; doble clic para agregar otra; clic derecho para quitarla.</li>
-<li>Gravedad ajustable (Luna, Marte, Tierra, Júpiter o cero) y en cualquier dirección.</li>
-<li>Todas las pelotas tienen el mismo tamaño, y lo puedes cambiar en tiempo real.</li>
-<li>Oculta las pelotas sin quitarlas (⌥⌘H) y vuelve a mostrarlas donde estaban.</li>
-]]></description>
             <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.0.0.dmg" length="6955067" type="application/octet-stream" sparkle:edSignature="VwTctqV1P4ZdIHjkfXOITpjJYRox7369AeHf9lR3KUCf9pjBRLDLiDIrqTGbBUAKWMoVBCijbusRbW2zxrd1Bw=="/>
         </item>
     </channel>
