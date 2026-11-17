@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RebotaPelota</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 17 Nov 2026 08:34:27 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<li>Pelotas de basket, fútbol, tenis, vóley y la pelota Feliz, con física real sobre tu escritorio.</li>
+<li>Arrastra y lanza las pelotas; doble clic para agregar otra; clic derecho para quitarla.</li>
+<li>Gravedad ajustable (Luna, Marte, Tierra, Júpiter o cero) y en cualquier dirección.</li>
+<li>Todas las pelotas tienen el mismo tamaño, y lo puedes cambiar en tiempo real.</li>
+<li>Oculta las pelotas sin quitarlas (⌥⌘H) y vuelve a mostrarlas donde estaban.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.0.0.dmg" length="6955067" type="application/octet-stream" sparkle:edSignature="VwTctqV1P4ZdIHjkfXOITpjJYRox7369AeHf9lR3KUCf9pjBRLDLiDIrqTGbBUAKWMoVBCijbusRbW2zxrd1Bw=="/>
+        </item>
+    </channel>
+</rss>
