@@ -3,15 +3,26 @@
     <channel>
         <title>RebotaPelota</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 18 Nov 2026 02:43:09 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<li>Ya puedes comprar RebotaPelota: un solo pago de 2,99 € para usarla en hasta 3 Macs.</li>
+<li>Icono nuevo, más limpio.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.0.2.dmg" length="6101923" type="application/octet-stream" sparkle:edSignature="gPEprSCZQH1uu0dvaPfs2vl3zWgqmcx6aEmCifKB4KFcALsSBquEg1Lcle16GwUEUukByRBQ5SHx9Pq3j4yRCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota14-11.delta" sparkle:deltaFrom="11" length="551262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mvJXiHTiOYoqHzgRvVb9VGuvECUVMLZDw2NZ8V+Z17Rm9f5b4FR0BDUPyok+uLebEdc0oUXHA8Oz7QY7sSYBDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota14-9.delta" sparkle:deltaFrom="9" length="1685770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7NTQTEv/T8R3WXXZpEvhf0+xTWVlm8Pb834X3nuO327Q5167Qwilmy/xvG3ByhHlK7rweCvzV7sFExx6NZpAAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 17 Nov 2026 11:05:07 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<li>Pelota de tenis nueva: se ve la costura completa, el fieltro es más realista y el verde es más oscuro.</li>
-<li>Se quitó la pelota de vóley.</li>
-<li>Icono limpio, sin las marcas blancas junto a la pelota.</li>
-]]></description>
             <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.0.1.dmg" length="6243497" type="application/octet-stream" sparkle:edSignature="NbObeAeNy1831/VMJLKrutqaVN8+GmQLheZTFnjXJojq6PAKysAW9cX4EFDTqiHKQ4gWNSUz74PMBtaWV1kdAw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota11-9.delta" sparkle:deltaFrom="9" length="1556114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tqVIpRdUtyKdC9+yi934hUeS8B4pM0+UYALrOOIjb/IcdAiXul2LnpRbzQgjAIlBZRHqM4NegW4wvCv6qWDmBA=="/>
