@@ -3,15 +3,28 @@
     <channel>
         <title>RebotaPelota</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Tue, 24 Nov 2026 11:26:04 +0100</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<li>Arreglado: una pelota sola (sobre todo la Feliz) seguía dando saltitos sin fin al final del rebote. Ahora se queda quieta.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.1.2.dmg" length="6468828" type="application/octet-stream" sparkle:edSignature="wELyPW/DOySYjwmAhK/pVkvDynoIUsvFnKA8YsKPMa0uCX6JSa/wlBQjqMjsuEXpzbzVV8Hv/drRMJkF38YZBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota21-19.delta" sparkle:deltaFrom="19" length="10646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wkzwW7GITcePawX6rgIB/eSux7A6O6FX5ToOb8PrV7iFaBKwDnEri8Zmm0RQkAYIXcw5tWijyRigveyrsSHUBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota21-17.delta" sparkle:deltaFrom="17" length="595254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5j3d17oHnGPG1JMFRgjCULxa6mNVJmlhBZmLzYaLOK1bSSi4mqkvtqrJ4TXlPNLlgEb+15fVl1JVRI4cI32LBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota21-14.delta" sparkle:deltaFrom="14" length="943854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6+9SGVrOEK8rLTAIe15rGucjtvCtpGpOzx7pAvE2r0MbBrxYhVrVeITmgCMC26wET2f7jer+lKd8ZK91d0XPCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota21-11.delta" sparkle:deltaFrom="11" length="1432914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rwBYj8nUltWHiHOMM18P8hCBcDI6mq7sXEGgI2Y6LOtTXsvc0V4ivFWOUO+i9CCWhYJFiUcBZf9GYKdCTwWCCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota21-9.delta" sparkle:deltaFrom="9" length="2552882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ItN22wUsfWRzpegn7o5aPh84qYLjsTUwfYfsXLAIDR4twHMjsrmqwAETDCd8jKGyZJ6w7OwMqF5MnSen0iXaDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Tue, 24 Nov 2026 11:22:06 +0100</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<li>Las pelotas ya no tiemblan ni dan saltitos cuando se quedan quietas.</li>
-<li>La pelota de tenis, la pelota Feliz y el pato ahora son más pequeños, en proporción con el basket y el fútbol.</li>
-<li>La pelota Feliz es más amarilla y luminosa.</li>
-]]></description>
             <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.1.1.dmg" length="6468860" type="application/octet-stream" sparkle:edSignature="jXgqV4U7XAlHXAlLwA5/qly4VdS64quEJpWnHv8Lsuf87KPaXYYHwOGIGsyAlQmm3PJYYMyggY/D9tqSDf0WDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota19-17.delta" sparkle:deltaFrom="17" length="595518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RdBuf+kqhqWKhuPSJxz6QMilKx1O2muhAZpP79SIveN8U3vcbImWG82InWKIZ6VTwG5kyKa36gPNS3RKKTs6AA=="/>
@@ -31,18 +44,6 @@
                 <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota17-14.delta" sparkle:deltaFrom="14" length="396122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="js73ye/cMYrhaZpvLwvPa3Lp7xITDJsKlF7jk7l1bQPyxI3Jz/pLm7Q5+gFt/g/tMY/+FTVrYm6u3j6K4Y+mBA=="/>
                 <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota17-11.delta" sparkle:deltaFrom="11" length="886390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QWkEbKq+OjLyrpuu81vZdgWAkNdBJUp8oghpIqoo+ahdbLT3zut82uiIqfmrKC3QLD4jt3wH58LZfSc7QV4kCg=="/>
                 <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota17-9.delta" sparkle:deltaFrom="9" length="2010774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SgiAa1jfW++wTfuDCOvBcYH802377cD45petV5sE3OemcOXgSThuCI6Na2cU7vRghMvRUJcNGJJSEVDkwt31CA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 18 Nov 2026 02:43:09 +0100</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota-1.0.2.dmg" length="6101923" type="application/octet-stream" sparkle:edSignature="gPEprSCZQH1uu0dvaPfs2vl3zWgqmcx6aEmCifKB4KFcALsSBquEg1Lcle16GwUEUukByRBQ5SHx9Pq3j4yRCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota14-11.delta" sparkle:deltaFrom="11" length="551262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mvJXiHTiOYoqHzgRvVb9VGuvECUVMLZDw2NZ8V+Z17Rm9f5b4FR0BDUPyok+uLebEdc0oUXHA8Oz7QY7sSYBDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/zaba-la/rebotapelota-releases/main/RebotaPelota14-9.delta" sparkle:deltaFrom="9" length="1685770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7NTQTEv/T8R3WXXZpEvhf0+xTWVlm8Pb834X3nuO327Q5167Qwilmy/xvG3ByhHlK7rweCvzV7sFExx6NZpAAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
